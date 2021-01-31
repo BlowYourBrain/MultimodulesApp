@@ -1,2 +1,5 @@
 rootProject.name='MutlimodulesApp'
 include ':app'
+include ':main'
+include ':authorization'
+include ':pin_code'
